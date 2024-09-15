@@ -32,7 +32,7 @@ sdmc/atmosphere/contents/01006A800016E000/romfs/skyline/plugins/
 
 or load/01006A800016E000/Arc/romfs/skyline/plugins/
 
-SSB Ultimate v13.0.1 (if mods that use smashline_plugin crash the game):
+SSB Ultimate v13.0.1 (if mods that use smashline_plugin crash the game in the latest version):
 
 https://github.com/Raytwo/ARCropolis/releases/tag/v3.14.0
 
