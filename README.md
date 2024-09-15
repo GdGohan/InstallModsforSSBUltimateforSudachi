@@ -20,4 +20,5 @@ https://github.com/masagrator/SaltyNX/releases/latest
 
 SaltyNX Plugins:
 sdmc
+
 Inside of the SaltySD directory, create a new subdirectory named plugins, and inside of that, a new subdirectory named 01006A800016E000. Inside there is where the the plugin .elf file(s) belong.
