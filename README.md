@@ -11,7 +11,7 @@ Mods folder:(Android/data/packagename/files) sdmc/ultimate/mods
 
 Drag and drop atmosphere folder to sdmc and then place exefs folder in sdmc/atmosphere/contents/01006a800016e000
 
-or load/01006a800016e000/Arc
+or load/01006a800016e000/Arc/romfs and exefs
 
 https://drive.google.com/file/d/1oTJdMfNVkJ9duzQUPqhVh00jEynDmYVb/view?usp=sharing
 
