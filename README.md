@@ -16,6 +16,12 @@ https://drive.google.com/file/d/1oTJdMfNVkJ9duzQUPqhVh00jEynDmYVb/view?usp=shari
 Legacy_discovery:
 sdmc/ultimate/arcropolis/config/[numbers]/[numbers]
 
+Skyline Plugins
+NOTICE: Only necessary to follow if the mod comes with an .nro plugin designed for Skyline. If the file is named plugin.nro, leave it in the mod directory and skip these steps.
+
+Add the plugin .nro file(s) into the following path, starting from the root of the microSD card:
+sdmc/atmosphere/contents/01006A800016E000/romfs/skyline/plugins/
+
 https://github.com/masagrator/SaltyNX/releases/latest
 
 SaltyNX Plugins:
