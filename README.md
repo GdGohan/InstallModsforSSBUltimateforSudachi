@@ -17,6 +17,7 @@ Legacy_discovery:
 sdmc/ultimate/arcropolis/config/[numbers]/[numbers]
 
 Skyline Plugins
+
 NOTICE: Only necessary to follow if the mod comes with an .nro plugin designed for Skyline. If the file is named plugin.nro, leave it in the mod directory and skip these steps.
 
 Add the plugin .nro file(s) into the following path, starting from the root of the microSD card:
