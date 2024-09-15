@@ -16,6 +16,8 @@ https://drive.google.com/file/d/1oTJdMfNVkJ9duzQUPqhVh00jEynDmYVb/view?usp=shari
 Legacy_discovery:
 sdmc/ultimate/arcropolis/config/[numbers]/[numbers]
 
+https://gamebanana.com/mods/499008
+
 Skyline Plugins
 
 NOTICE: Only necessary to follow if the mod comes with an .nro plugin designed for Skyline. If the file is named plugin.nro, leave it in the mod directory and skip these steps.
