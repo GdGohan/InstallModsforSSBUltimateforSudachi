@@ -1,4 +1,4 @@
-# InstallModsforSSBUltimate
+# InstallModsforSSBUltimateforSudachi
 
 https://gamebanana.com/tuts/14688
 https://gamebanana.com/tuts/16708
@@ -20,7 +20,7 @@ sdmc/ultimate/arcropolis/config/[numbers]/[numbers]
 
 https://gamebanana.com/mods/499008
 
-Smashline (Recommended): https://github.com/HDR-Development/smashline/releases/tag/v1.2.7 
+smashline (Recommended): https://github.com/HDR-Development/smashline/releases/tag/v1.2.7 
 or latest version
 
 Skyline Plugins
