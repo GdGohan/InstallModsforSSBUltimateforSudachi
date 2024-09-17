@@ -18,10 +18,10 @@ https://drive.google.com/file/d/1oTJdMfNVkJ9duzQUPqhVh00jEynDmYVb/view?usp=shari
 Legacy_discovery:
 sdmc/ultimate/arcropolis/config/[numbers]/[numbers]
 
-https://gamebanana.com/mods/499008
-
 smashline (Recommended): https://github.com/HDR-Development/smashline/releases/tag/v1.2.7 
 or latest version
+
+https://gamebanana.com/mods/499008
 
 Skyline Plugins
 
